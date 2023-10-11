@@ -42,5 +42,4 @@ b) São gerados os arquivos PDFs referentes ao total de cartas disponíveis para
 ### Observação final: 
 Você pode optar por não executar o exercicio 2 via container, nesse caso é necessario criar a virtualenv e executar o arquivo requirements.txt. E dependendo da configuração do seu S.O. O script python ira exibir o resultado das linhas 49, 50 e 51, o mapa das cartas será exibido na tela do console. 
 
-Mas no caso de executar via container, você pode copiar os arquivo para fora do container e
-manipular a vontade..
+Mas no caso de executar via container, os arquivos PDFs já estão no diretorio corrente do projeto (exercicio_2)
